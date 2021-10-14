@@ -1,0 +1,2734 @@
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.7/python-3.9.7.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.7/python-3.9.7.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.7/python-3.9.7-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.7/python-3.9.7-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.6/python-3.9.6.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.6/python-3.9.6.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.5/python-3.9.5.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.5/python-3.9.5.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.4/python-3.9.4.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.4/python-3.9.4.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.4/python-3.9.4-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.4/python-3.9.4-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.9/python-3.8.9.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.9/python-3.8.9.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.9/python-3.8.9-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.9/python-3.8.9-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.2/python-3.9.2.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.2/python-3.9.2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.8/python-3.8.8.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.8/python-3.8.8.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.8/python-3.8.8-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.8/python-3.8.8-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.7/python-3.8.7.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.7/python-3.8.7.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.7/python-3.8.7-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.7/python-3.8.7-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.1/python-3.9.1.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.1/python-3.9.1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.1/python-3.9.1-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.1/python-3.9.1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.6/python-3.8.6.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.6/python-3.8.6.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.6/python-3.8.6-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.6/python-3.8.6-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.6/python-3.8.6rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.6/python-3.8.6rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.6/python-3.8.6rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.6/python-3.8.6rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.6/python-3.8.6rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.6/python-3.8.6rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.6/python-3.8.6rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.6/python-3.8.6rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.9/python-3.7.9-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.9/python-3.7.9-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.9/python-3.7.9-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.9/python-3.7.9-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.9/python-3.7.9.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.9/python-3.7.9.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.9/python-3.7.9-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.9/python-3.7.9-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.5/python-3.8.5-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.5/python-3.8.5-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.5/python-3.8.5-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.5/python-3.8.5-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.5/python-3.8.5.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.5/python-3.8.5.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.5/python-3.8.5-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.5/python-3.8.5-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.4/python-3.8.4-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.4/python-3.8.4-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.4/python-3.8.4-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.4/python-3.8.4-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.4/python-3.8.4.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.4/python-3.8.4.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.4/python-3.8.4-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.4/python-3.8.4-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.4/python-3.8.4rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.4/python-3.8.4rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.4/python-3.8.4rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.4/python-3.8.4rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.4/python-3.8.4rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.4/python-3.8.4rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.4/python-3.8.4rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.4/python-3.8.4rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.8/python-3.7.8-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.8/python-3.7.8-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.8/python-3.7.8-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.8/python-3.7.8-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.8/python-3.7.8.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.8/python-3.7.8.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.8/python-3.7.8-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.8/python-3.7.8-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.3/python-3.8.3-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.3/python-3.8.3-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.3/python-3.8.3-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.3/python-3.8.3-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.3/python-3.8.3.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.3/python-3.8.3.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.3/python-3.8.3-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.3/python-3.8.3-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.3/python-3.8.3rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.3/python-3.8.3rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.3/python-3.8.3rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.3/python-3.8.3rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.3/python-3.8.3rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.3/python-3.8.3rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.3/python-3.8.3rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.3/python-3.8.3rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.18/python-2.7.18.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.18/python-2.7.18.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.7/python-3.7.7.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.7/python-3.7.7.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.7/python-3.7.7-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.7/python-3.7.7-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.2/python-3.8.2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.2/python-3.8.2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.2/python-3.8.2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.2/python-3.8.2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.2/python-3.8.2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.2/python-3.8.2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.1/python-3.8.1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.1/python-3.8.1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.1/python-3.8.1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.1/python-3.8.1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.1/python-3.8.1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.1/python-3.8.1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.1/python-3.8.1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.1/python-3.8.1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.6/python-3.7.6-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.6/python-3.7.6-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.6/python-3.7.6-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.6/python-3.7.6-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.6/python-3.7.6.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.6/python-3.7.6.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.6/python-3.7.6-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.6/python-3.7.6-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.17/python-2.7.17.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.17/python-2.7.17.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.17/python-2.7.17.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.17/python-2.7.17.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.5/python-3.7.5-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.5/python-3.7.5-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.5/python-3.7.5-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.5/python-3.7.5-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.5/python-3.7.5.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.5/python-3.7.5.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.5/python-3.7.5-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.5/python-3.7.5-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.4/python-3.7.4.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.4/python-3.7.4.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.4/python-3.7.4-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.4/python-3.7.4-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.3/python-3.7.3-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.3/python-3.7.3-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.3/python-3.7.3-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.3/python-3.7.3-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.3/python-3.7.3.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.3/python-3.7.3.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.3/python-3.7.3-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.3/python-3.7.3-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.16/python-2.7.16.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.16/python-2.7.16.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.16/python-2.7.16.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.16/python-2.7.16.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.2/python-3.7.2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.2/python-3.7.2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.2/python-3.7.2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.2/python-3.7.2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.2/python-3.7.2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.2/python-3.7.2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.2/python-3.7.2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.2/python-3.7.2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.8/python-3.6.8-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.8/python-3.6.8-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.8/python-3.6.8-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.8/python-3.6.8-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.8/python-3.6.8.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.8/python-3.6.8.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.8/python-3.6.8-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.8/python-3.6.8-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.1/python-3.7.1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.1/python-3.7.1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.1/python-3.7.1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.1/python-3.7.1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.1/python-3.7.1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.1/python-3.7.1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.1/python-3.7.1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.1/python-3.7.1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.7/python-3.6.7-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.7/python-3.6.7-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.7/python-3.6.7-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.7/python-3.6.7-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.7/python-3.6.7.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.7/python-3.6.7.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.7/python-3.6.7-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.7/python-3.6.7-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.6/python-3.6.6-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.6/python-3.6.6-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.6/python-3.6.6-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.6/python-3.6.6-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.6/python-3.6.6.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.6/python-3.6.6.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.6/python-3.6.6-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.6/python-3.6.6-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.15/python-2.7.15.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.15/python-2.7.15.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.15/python-2.7.15.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.15/python-2.7.15.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.5/python-3.6.5-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.5/python-3.6.5-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.5/python-3.6.5-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.5/python-3.6.5-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.5/python-3.6.5-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.5/python-3.6.5-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.4/python-3.6.4-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.4/python-3.6.4-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.4/python-3.6.4-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.4/python-3.6.4-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.4/python-3.6.4-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.4/python-3.6.4-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.3/python-3.6.3-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.3/python-3.6.3-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.3/python-3.6.3-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.3/python-3.6.3-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.3/python-3.6.3.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.3/python-3.6.3.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.3/python-3.6.3-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.3/python-3.6.3-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.14/python-2.7.14.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.14/python-2.7.14.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.14/python-2.7.14.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.14/python-2.7.14.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.4/python-3.5.4-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.4/python-3.5.4-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.4/python-3.5.4-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.4/python-3.5.4-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.4/python-3.5.4.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.4/python-3.5.4.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.4/python-3.5.4-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.4/python-3.5.4-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.2/python-3.6.2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.2/python-3.6.2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.2/python-3.6.2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.2/python-3.6.2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.2/python-3.6.2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.2/python-3.6.2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.2/python-3.6.2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.2/python-3.6.2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.1/python-3.6.1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.1/python-3.6.1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.1/python-3.6.1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.1/python-3.6.1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.1/python-3.6.1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.1/python-3.6.1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.1/python-3.6.1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.1/python-3.6.1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.3/python-3.5.3-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.3/python-3.5.3-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.3/python-3.5.3-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.3/python-3.5.3-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.3/python-3.5.3.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.3/python-3.5.3.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.3/python-3.5.3-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.3/python-3.5.3-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.13/python-2.7.13.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.13/python-2.7.13.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.13/python-2.7.13.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.13/python-2.7.13.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.2/python-3.5.2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.2/python-3.5.2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.2/python-3.5.2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.2/python-3.5.2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.2/python-3.5.2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.2/python-3.5.2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.2/python-3.5.2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.2/python-3.5.2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.12/python-2.7.12.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.12/python-2.7.12.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.12/python-2.7.12.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.12/python-2.7.12.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.4.4/python-3.4.4.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.4.4/python-3.4.4.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.4.4/python-3.4.4.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.4.4/python-3.4.4.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.1/python-3.5.1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.1/python-3.5.1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.1/python-3.5.1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.1/python-3.5.1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.1/python-3.5.1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.1/python-3.5.1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.1/python-3.5.1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.1/python-3.5.1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.11/python-2.7.11.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.11/python-2.7.11.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.11/python-2.7.11.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.11/python-2.7.11.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.10/python-2.7.10.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.10/python-2.7.10.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.10/python-2.7.10.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.10/python-2.7.10.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.4.3/python-3.4.3.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.4.3/python-3.4.3.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.4.3/python-3.4.3.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.4.3/python-3.4.3.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.9/python-2.7.9.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.9/python-2.7.9.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.9/python-2.7.9.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.9/python-2.7.9.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.4.2/python-3.4.2.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.4.2/python-3.4.2.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.4.2/python-3.4.2.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.4.2/python-3.4.2.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.8/python-2.7.8.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.8/python-2.7.8.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.8/python-2.7.8.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.8/python-2.7.8.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.7/python-2.7.7.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.7/python-2.7.7.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.7/python-2.7.7.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.7/python-2.7.7.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.4.1/python-3.4.1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.4.1/python-3.4.1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.4.1/python-3.4.1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.4.1/python-3.4.1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.4.0/python-3.4.0.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.4.0/python-3.4.0.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.4.0/python-3.4.0.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.4.0/python-3.4.0.msi
+
+outerHTML : <a href="http://www.python.org/ftp/python/3.3.5/python-3.3.5.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : http://www.python.org/ftp/python/3.3.5/python-3.3.5.amd64.msi
+
+outerHTML : <a href="http://www.python.org/ftp/python/3.3.5/python-3.3.5.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : http://www.python.org/ftp/python/3.3.5/python-3.3.5.msi
+
+outerHTML : <a href="http://www.python.org/ftp/python/3.3.4/python-3.3.4.amd64.msi">Windows X86-64 MSI Installer</a>
+tagName   : A
+href      : http://www.python.org/ftp/python/3.3.4/python-3.3.4.amd64.msi
+
+outerHTML : <a href="http://www.python.org/ftp/python/3.3.4/python-3.3.4.msi">Windows x86 MSI Installer</a>
+tagName   : A
+href      : http://www.python.org/ftp/python/3.3.4/python-3.3.4.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.3.3/python-3.3.3.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.3.3/python-3.3.3.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.3.3/python-3.3.3.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.3.3/python-3.3.3.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.6/python-2.7.6.amd64.msi">Windows X86-64 MSI Installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.6/python-2.7.6.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.6/python-2.7.6.msi">Windows x86 MSI Installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.6/python-2.7.6.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.2.5/python-3.2.5.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.2.5/python-3.2.5.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.2.5/python-3.2.5.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.2.5/python-3.2.5.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.3.2/python-3.3.2.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.3.2/python-3.3.2.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.3.2/python-3.3.2.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.3.2/python-3.3.2.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.5/python-2.7.5.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.5/python-2.7.5.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.5/python-2.7.5.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.5/python-2.7.5.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.2.4/python-3.2.4.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.2.4/python-3.2.4.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.2.4/python-3.2.4.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.2.4/python-3.2.4.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.3.1/python-3.3.1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.3.1/python-3.3.1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.3.1/python-3.3.1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.3.1/python-3.3.1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.4/python-2.7.4.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.4/python-2.7.4.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.4/python-2.7.4.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.4/python-2.7.4.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.3.0/python-3.3.0.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.3.0/python-3.3.0.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.3.0/python-3.3.0.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.3.0/python-3.3.0.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.2.3/python-3.2.3.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.2.3/python-3.2.3.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.2.3/python-3.2.3.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.2.3/python-3.2.3.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.3/python-2.7.3.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.3/python-2.7.3.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.3/python-2.7.3.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.3/python-2.7.3.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.2.2/python-3.2.2.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.2.2/python-3.2.2.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.2.2/python-3.2.2.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.2.2/python-3.2.2.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.2.1/python-3.2.1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.2.1/python-3.2.1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.2.1/python-3.2.1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.2.1/python-3.2.1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.2/python-2.7.2.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.2/python-2.7.2.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.2/python-2.7.2.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.2/python-2.7.2.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.1.4/python-3.1.4.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.1.4/python-3.1.4.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.1.4/python-3.1.4.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.1.4/python-3.1.4.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.2/python-3.2.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.2/python-3.2.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.2/python-3.2.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.2/python-3.2.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.1/python-2.7.1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.1/python-2.7.1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.1/python-2.7.1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.1/python-2.7.1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.1.3/python-3.1.3.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.1.3/python-3.1.3.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.1.3/python-3.1.3.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.1.3/python-3.1.3.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.6.6/python-2.6.6.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.6.6/python-2.6.6.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.6.6/python-2.6.6.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.6.6/python-2.6.6.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7/python-2.7.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7/python-2.7.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7/python-2.7.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7/python-2.7.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.1.2/python-3.1.2.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.1.2/python-3.1.2.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.1.2/python-3.1.2.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.1.2/python-3.1.2.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.6.5/python-2.6.5.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.6.5/python-2.6.5.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.6.5/python-2.6.5.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.6.5/python-2.6.5.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.6.4/python-2.6.4.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.6.4/python-2.6.4.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.6.4/python-2.6.4.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.6.4/python-2.6.4.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.6.3/python-2.6.3.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.6.3/python-2.6.3.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.6.3/python-2.6.3.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.6.3/python-2.6.3.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.1.1/python-3.1.1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.1.1/python-3.1.1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.1.1/python-3.1.1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.1.1/python-3.1.1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.1/python-3.1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.1/python-3.1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.1/python-3.1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.1/python-3.1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.6.2/python-2.6.2.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.6.2/python-2.6.2.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.6.2/python-2.6.2.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.6.2/python-2.6.2.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.0.1/python-3.0.1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.0.1/python-3.0.1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.0.1/python-3.0.1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.0.1/python-3.0.1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.5.4/python-2.5.4.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.5.4/python-2.5.4.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.5.4/python-2.5.4.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.5.4/python-2.5.4.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.5.3/python-2.5.3.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.5.3/python-2.5.3.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.5.3/python-2.5.3.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.5.3/python-2.5.3.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.6.1/python-2.6.1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.6.1/python-2.6.1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.6.1/python-2.6.1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.6.1/python-2.6.1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.0/python-3.0.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.0/python-3.0.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.0/python-3.0.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.0/python-3.0.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.6/python-2.6.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.6/python-2.6.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.6/python-2.6.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.6/python-2.6.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.5.2/python-2.5.2.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.5.2/python-2.5.2.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.5.2/python-2.5.2.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.5.2/python-2.5.2.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.5.1/python-2.5.1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.5.1/python-2.5.1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.5.1/python-2.5.1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.5.1/python-2.5.1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.4.4/python-2.4.4.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.4.4/python-2.4.4.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.5/python-2.5.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.5/python-2.5.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.5/python-2.5.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.5/python-2.5.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.4.3/python-2.4.3.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.4.3/python-2.4.3.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.4.2/python-2.4.2.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.4.2/python-2.4.2.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.4.1/python-2.4.1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.4.1/python-2.4.1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.3.5/Python-2.3.5.exe">Windows installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.3.5/Python-2.3.5.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.4/python-2.4.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.4/python-2.4.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.3.4/Python-2.3.4.exe">Windows installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.3.4/Python-2.3.4.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.3.3/Python-2.3.3.exe">Windows installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.3.3/Python-2.3.3.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.3.2/Python-2.3.2-1.exe">Windows installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.3.2/Python-2.3.2-1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.3.1/Python-2.3.1.exe">Windows installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.3.1/Python-2.3.1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.3/Python-2.3.exe">Windows installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.3/Python-2.3.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.2.3/Python-2.2.3.exe">Windows installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.2.3/Python-2.2.3.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.2.2/Python-2.2.2.exe">Windows installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.2.2/Python-2.2.2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.2.1/Python-2.2.1.exe">Windows installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.2.1/Python-2.2.1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.1.3/Python-2.1.3.exe">Windows installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.1.3/Python-2.1.3.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.2/Python-2.2.exe">Windows installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.2/Python-2.2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.0.1/Python-2.0.1.exe">Windows installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.0.1/Python-2.0.1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.11.0/python-3.11.0a1.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.11.0/python-3.11.0a1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.11.0/python-3.11.0a1-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.11.0/python-3.11.0a1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0rc2.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0rc2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0rc2-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0rc2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0rc1.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0rc1-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0b4.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0b4.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0b4-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0b4-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0b3.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0b3.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0b3-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0b3-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0b2.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0b2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0b2-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0b2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0b1.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0b1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0b1-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0b1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0a7.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0a7.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0a7-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0a7-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0a6.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0a6.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0a6-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0a6-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.2/python-3.9.2rc1.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.2/python-3.9.2rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.2/python-3.9.2rc1-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.2/python-3.9.2rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.8/python-3.8.8rc1.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.8/python-3.8.8rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.8/python-3.8.8rc1-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.8/python-3.8.8rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0a5.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0a5.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0a5-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0a5-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0a4.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0a4.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0a4-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0a4-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.7/python-3.8.7rc1.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.7/python-3.8.7rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.7/python-3.8.7rc1-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.7/python-3.8.7rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0a3.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0a3.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0a3-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0a3-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.1/python-3.9.1rc1.exe">Windows installer (32-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.1/python-3.9.1rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.1/python-3.9.1rc1-amd64.exe">Windows installer (64-bit)</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.1/python-3.9.1rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0a2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0a2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0a2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0a2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0a2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0a2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0a2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0a2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0a1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0a1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0a1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0a1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0a1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0a1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.10.0/python-3.10.0a1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.10.0/python-3.10.0a1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0rc2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0rc2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0rc2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0rc2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0rc2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0rc2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0rc2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0rc2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0b5-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0b5-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0b5-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0b5-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0b5.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0b5.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0b5-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0b5-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0b4-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0b4-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0b4-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0b4-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0b4.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0b4.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0b4-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0b4-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.8/python-3.7.8rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.8/python-3.7.8rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.8/python-3.7.8rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.8/python-3.7.8rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.8/python-3.7.8rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.8/python-3.7.8rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.8/python-3.7.8rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.8/python-3.7.8rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0b3-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0b3-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0b3-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0b3-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0b3.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0b3.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0b3-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0b3-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0b2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0b2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0b2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0b2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0b2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0b2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0b2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0b2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0b1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0b1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0b1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0b1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0b1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0b1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0b1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0b1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a6-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a6-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a6-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a6-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a6.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a6.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a6-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a6-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.18/python-2.7.18rc1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.18/python-2.7.18rc1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.18/python-2.7.18rc1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.18/python-2.7.18rc1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a5-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a5-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a5-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a5-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a5.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a5.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a5-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a5-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.7/python-3.7.7rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.7/python-3.7.7rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.7/python-3.7.7rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.7/python-3.7.7rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.7/python-3.7.7rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.7/python-3.7.7rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.7/python-3.7.7rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.7/python-3.7.7rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a4-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a4-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a4-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a4-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a4.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a4.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a4-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a4-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.2/python-3.8.2rc2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.2/python-3.8.2rc2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.2/python-3.8.2rc2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.2/python-3.8.2rc2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.2/python-3.8.2rc2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.2/python-3.8.2rc2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.2/python-3.8.2rc2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.2/python-3.8.2rc2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.2/python-3.8.2rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.2/python-3.8.2rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.2/python-3.8.2rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.2/python-3.8.2rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.2/python-3.8.2rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.2/python-3.8.2rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.2/python-3.8.2rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.2/python-3.8.2rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a3-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a3-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a3-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a3-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a3.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a3.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a3-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a3-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.6/python-3.7.6rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.6/python-3.7.6rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.6/python-3.7.6rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.6/python-3.7.6rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.6/python-3.7.6rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.6/python-3.7.6rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.6/python-3.7.6rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.6/python-3.7.6rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.1/python-3.8.1rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.1/python-3.8.1rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.1/python-3.8.1rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.1/python-3.8.1rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.1/python-3.8.1rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.1/python-3.8.1rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.1/python-3.8.1rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.1/python-3.8.1rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0a1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.9.0/python-3.9.0a1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.17/python-2.7.17rc1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.17/python-2.7.17rc1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.17/python-2.7.17rc1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.17/python-2.7.17rc1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.5/python-3.7.5rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.5/python-3.7.5rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.5/python-3.7.5rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.5/python-3.7.5rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.5/python-3.7.5rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.5/python-3.7.5rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.5/python-3.7.5rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.5/python-3.7.5rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0b4-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0b4-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0b4-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0b4-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0b4.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0b4.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0b4-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0b4-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0b3-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0b3-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0b3-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0b3-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0b3.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0b3.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0b3-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0b3-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0b2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0b2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0b2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0b2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0b2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0b2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0b2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0b2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.4/python-3.7.4rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.4/python-3.7.4rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.4/python-3.7.4rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.4/python-3.7.4rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.4/python-3.7.4rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.4/python-3.7.4rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.4/python-3.7.4rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.4/python-3.7.4rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0b1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0b1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0b1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0b1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0b1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0b1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0b1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0b1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0a4-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0a4-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0a4-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0a4-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0a4.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0a4.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0a4-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0a4-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0a3-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0a3-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0a3-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0a3-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0a3.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0a3.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0a3-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0a3-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.3/python-3.7.3rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.3/python-3.7.3rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.3/python-3.7.3rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.3/python-3.7.3rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.3/python-3.7.3rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.3/python-3.7.3rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.3/python-3.7.3rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.3/python-3.7.3rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0a2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0a2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0a2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0a2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0a2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0a2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0a2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0a2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.16/python-2.7.16rc1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.16/python-2.7.16rc1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.16/python-2.7.16rc1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.16/python-2.7.16rc1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0a1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0a1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0a1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0a1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0a1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0a1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0a1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.8.0/python-3.8.0a1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.2/python-3.7.2rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.2/python-3.7.2rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.2/python-3.7.2rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.2/python-3.7.2rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.2/python-3.7.2rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.2/python-3.7.2rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.2/python-3.7.2rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.2/python-3.7.2rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.8/python-3.6.8rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.8/python-3.6.8rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.8/python-3.6.8rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.8/python-3.6.8rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.8/python-3.6.8rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.8/python-3.6.8rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.8/python-3.6.8rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.8/python-3.6.8rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.1/python-3.7.1rc2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.1/python-3.7.1rc2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.1/python-3.7.1rc2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.1/python-3.7.1rc2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.1/python-3.7.1rc2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.1/python-3.7.1rc2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.1/python-3.7.1rc2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.1/python-3.7.1rc2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.7/python-3.6.7rc2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.7/python-3.6.7rc2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.7/python-3.6.7rc2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.7/python-3.6.7rc2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.7/python-3.6.7rc2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.7/python-3.6.7rc2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.7/python-3.6.7rc2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.7/python-3.6.7rc2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.1/python-3.7.1rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.1/python-3.7.1rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.1/python-3.7.1rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.1/python-3.7.1rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.1/python-3.7.1rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.1/python-3.7.1rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.1/python-3.7.1rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.1/python-3.7.1rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.7/python-3.6.7rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.7/python-3.6.7rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.7/python-3.6.7rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.7/python-3.6.7rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.7/python-3.6.7rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.7/python-3.6.7rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.7/python-3.6.7rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.7/python-3.6.7rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.6/python-3.6.6rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.6/python-3.6.6rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.6/python-3.6.6rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.6/python-3.6.6rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.6/python-3.6.6rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.6/python-3.6.6rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.6/python-3.6.6rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.6/python-3.6.6rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0b5-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0b5-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0b5-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0b5-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0b5.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0b5.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0b5-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0b5-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.15/python-2.7.15rc1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.15/python-2.7.15rc1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.15/python-2.7.15rc1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.15/python-2.7.15rc1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.5/python-3.6.5rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.5/python-3.6.5rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.5/python-3.6.5rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.5/python-3.6.5rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.5/python-3.6.5rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.5/python-3.6.5rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.5/python-3.6.5rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.5/python-3.6.5rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0b2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0b2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0b2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0b2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0b2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0b2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0b2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0b2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0b1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0b1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0b1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0b1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0b1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0b1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0b1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0b1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0a4-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0a4-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0a4-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0a4-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0a4.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0a4.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0a4-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0a4-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0a3-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0a3-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0a3-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0a3-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0a3.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0a3.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0a3-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0a3-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.4/python-3.6.4rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.4/python-3.6.4rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.4/python-3.6.4rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.4/python-3.6.4rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.4/python-3.6.4rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.4/python-3.6.4rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.4/python-3.6.4rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.4/python-3.6.4rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0a2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0a2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0a2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0a2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0a2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0a2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0a2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0a2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0a1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0a1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0a1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0a1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0a1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0a1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0a1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.7.0/python-3.7.0a1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.3/python-3.6.3rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.3/python-3.6.3rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.3/python-3.6.3rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.3/python-3.6.3rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.3/python-3.6.3rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.3/python-3.6.3rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.3/python-3.6.3rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.3/python-3.6.3rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.14/python-2.7.14rc1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.14/python-2.7.14rc1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.14/python-2.7.14rc1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.14/python-2.7.14rc1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.4/python-3.5.4rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.4/python-3.5.4rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.4/python-3.5.4rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.4/python-3.5.4rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.4/python-3.5.4rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.4/python-3.5.4rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.4/python-3.5.4rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.4/python-3.5.4rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.2/python-3.6.2rc2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.2/python-3.6.2rc2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.2/python-3.6.2rc2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.2/python-3.6.2rc2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.2/python-3.6.2rc2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.2/python-3.6.2rc2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.2/python-3.6.2rc2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.2/python-3.6.2rc2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.2/python-3.6.2rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.2/python-3.6.2rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.2/python-3.6.2rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.2/python-3.6.2rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.2/python-3.6.2rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.2/python-3.6.2rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.2/python-3.6.2rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.2/python-3.6.2rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.1/python-3.6.1rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.1/python-3.6.1rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.1/python-3.6.1rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.1/python-3.6.1rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.1/python-3.6.1rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.1/python-3.6.1rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.1/python-3.6.1rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.1/python-3.6.1rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.3/python-3.5.3rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.3/python-3.5.3rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.3/python-3.5.3rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.3/python-3.5.3rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.3/python-3.5.3rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.3/python-3.5.3rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.3/python-3.5.3rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.3/python-3.5.3rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0rc2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0rc2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0rc2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0rc2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0rc2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0rc2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0rc2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0rc2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.13/python-2.7.13rc1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.13/python-2.7.13rc1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.13/python-2.7.13rc1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.13/python-2.7.13rc1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0b4-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0b4-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0b4-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0b4-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0b4.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0b4.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0b4-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0b4-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0b3-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0b3-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0b3-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0b3-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0b3.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0b3.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0b3-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0b3-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0b2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0b2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0b2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0b2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0b2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0b2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0b2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0b2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0b1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0b1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0b1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0b1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0b1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0b1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0b1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0b1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0a4-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0a4-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0a4-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0a4-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0a4.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0a4.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0a4-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0a4-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0a3-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0a3-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0a3-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0a3-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0a3.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0a3.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0a3-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0a3-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0a2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0a2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0a2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0a2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0a2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0a2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0a2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0a2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.12/python-2.7.12rc1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.12/python-2.7.12rc1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.12/python-2.7.12rc1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.12/python-2.7.12rc1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.2/python-3.5.2rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.2/python-3.5.2rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.2/python-3.5.2rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.2/python-3.5.2rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.2/python-3.5.2rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.2/python-3.5.2rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.2/python-3.5.2rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.2/python-3.5.2rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0a1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0a1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0a1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0a1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0a1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0a1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.6.0/python-3.6.0a1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.6.0/python-3.6.0a1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.4.4/python-3.4.4rc1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.4.4/python-3.4.4rc1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.4.4/python-3.4.4rc1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.4.4/python-3.4.4rc1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.1/python-3.5.1rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.1/python-3.5.1rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.1/python-3.5.1rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.1/python-3.5.1rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.1/python-3.5.1rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.1/python-3.5.1rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.1/python-3.5.1rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.1/python-3.5.1rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.11/python-2.7.11rc1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.11/python-2.7.11rc1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.11/python-2.7.11rc1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.11/python-2.7.11rc1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0rc4-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0rc4-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0rc4-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0rc4-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0rc4.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0rc4.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0rc4-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0rc4-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0rc3-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0rc3-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0rc3-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0rc3-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0rc3.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0rc3.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0rc3-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0rc3-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0rc2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0rc2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0rc2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0rc2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0rc2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0rc2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0rc2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0rc2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0rc1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0rc1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0rc1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0rc1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0rc1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0rc1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0rc1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0rc1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0b4-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0b4-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0b4-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0b4-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0b4.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0b4.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0b4-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0b4-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0b3-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0b3-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0b3-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0b3-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0b3.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0b3.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0b3-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0b3-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0b2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0b2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0b2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0b2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0b2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0b2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0b2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0b2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0b1-embed-amd64.zip">Windows AMD64 embeddable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0b1-embed-amd64.zip
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0b1-amd64.exe">Windows AMD64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0b1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0b1-amd64-webinstall.exe">Windows AMD64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0b1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0b1-embed-win32.zip">Windows x86 embeddable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0b1-embed-win32.zip
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0b1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0b1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0b1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0b1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.10/python-2.7.10rc1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.10/python-2.7.10rc1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.10/python-2.7.10rc1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.10/python-2.7.10rc1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0a4-embed-amd64.exe">Windows amd64 embeddable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0a4-embed-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0a4-amd64-webinstall.exe">Windows amd64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0a4-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0a4-amd64.exe">Windows amd executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0a4-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0a4-embed-win32.exe">Windows x86 embeddable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0a4-embed-win32.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0a4.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0a4.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0a4-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0a4-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0a3-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0a3-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0a3-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0a3-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0a3.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0a3.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0a3-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0a3-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0a2-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0a2-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0a2-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0a2-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0a2.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0a2.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0a2-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0a2-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0a1-amd64.exe">Windows x86-64 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0a1-amd64.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0a1-amd64-webinstall.exe">Windows x86-64 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0a1-amd64-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0a1.exe">Windows x86 executable installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0a1.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.5.0/python-3.5.0a1-webinstall.exe">Windows x86 web-based installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.5.0/python-3.5.0a1-webinstall.exe
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.4.3/python-3.4.3rc1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.4.3/python-3.4.3rc1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.4.3/python-3.4.3rc1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.4.3/python-3.4.3rc1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.9/python-2.7.9rc1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.9/python-2.7.9rc1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.9/python-2.7.9rc1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.9/python-2.7.9rc1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.4.2/python-3.4.2rc1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.4.2/python-3.4.2rc1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.4.2/python-3.4.2rc1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.4.2/python-3.4.2rc1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.7/python-2.7.7rc1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.7/python-2.7.7rc1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/2.7.7/python-2.7.7rc1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/2.7.7/python-2.7.7rc1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.4.1/python-3.4.1rc1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.4.1/python-3.4.1rc1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.4.1/python-3.4.1rc1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.4.1/python-3.4.1rc1.msi
+
+outerHTML : <a href="http://www.python.org/ftp/python/3.4.0/python-3.4.0rc3.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : http://www.python.org/ftp/python/3.4.0/python-3.4.0rc3.amd64.msi
+
+outerHTML : <a href="http://www.python.org/ftp/python/3.4.0/python-3.4.0rc3.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : http://www.python.org/ftp/python/3.4.0/python-3.4.0rc3.msi
+
+outerHTML : <a href="http://www.python.org/ftp/python/3.3.5/python-3.3.5rc2.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : http://www.python.org/ftp/python/3.3.5/python-3.3.5rc2.amd64.msi
+
+outerHTML : <a href="http://www.python.org/ftp/python/3.3.5/python-3.3.5rc2.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : http://www.python.org/ftp/python/3.3.5/python-3.3.5rc2.msi
+
+outerHTML : <a href="http://www.python.org/ftp/python/3.3.5/python-3.3.5rc1.amd64.msi">Windows X86-64 MSI Installer</a>
+tagName   : A
+href      : http://www.python.org/ftp/python/3.3.5/python-3.3.5rc1.amd64.msi
+
+outerHTML : <a href="http://www.python.org/ftp/python/3.3.5/python-3.3.5rc1.msi">Windows x86 MSI Installer</a>
+tagName   : A
+href      : http://www.python.org/ftp/python/3.3.5/python-3.3.5rc1.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.3.5/python-3.3.5rc1.amd64.msi">Windows x86-64 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.3.5/python-3.3.5rc1.amd64.msi
+
+outerHTML : <a href="https://www.python.org/ftp/python/3.3.5/python-3.3.5rc1.msi">Windows x86 MSI installer</a>
+tagName   : A
+href      : https://www.python.org/ftp/python/3.3.5/python-3.3.5rc1.msi
+
+
