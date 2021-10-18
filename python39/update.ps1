@@ -30,21 +30,14 @@ function GetStreams() {
         $version = $_.href.Trim() -split '/' | Select-Object -Last 1 -Skip 1
         #if ($version -match '[a-z]') { Write-Host "Skipping prerelease: '$version'"; return }
         $versionTwoPart = $version -replace '([\d]+\.[\d]+).*', "`$1"
-        Write-Host "ExactVersion: $version\t Version: $versionTwoPart"
+        Write-Host "ExactVersion: $version`t Version: $versionTwoPart"
 
         if ($streams.$versionTwoPart) { return }
 
         $url32 = $_ | Where-Object { $_.href -match "python-.+.(exe|msi)$" -and $_.href -notmatch "amd64" } | Select-Object -first 1 -expand href
         $url64 = $_ | Where-Object href -match "python-.+amd64\.(exe|msi)$" | Select-Object -first 1 -expand href
-        Write-Host "32:"
-        if (!$url32 -or !$url64) {
-            Write-Host "Skipping due to missing installer: '$version'"; return
-        }
-
-        if (!$url32.StartsWith('http')) {
-            $url32 = 'https://www.python.org' + $url32
-            $url64 = 'https://www.python.org' + $url64
-        }
+        Write-Host "32: $url32"
+        Write-Host "64: $url64"
         $streams.$versionTwoPart = @{ URL32 = $url32 ; URL64 = $url64 ; Version = Get-Version $version }
     }
 
