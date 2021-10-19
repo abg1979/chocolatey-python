@@ -4,3 +4,5 @@ tools/chocolateyinstall.ps1
 *.iml
 python.json
 .idea
+*.exe
+*.msi

@@ -2,7 +2,7 @@
 
 ## <PackageName>
 
-<PackageName> <Version> is a programming language that lets you work more quickly and integrate your systems more effectively. You can learn to use <PackageName> <Version> and see almost immediate gains in productivity and lower maintenance costs.
+Python <Version> is a programming language that lets you work more quickly and integrate your systems more effectively. You can learn to use Python <Version> and see almost immediate gains in productivity and lower maintenance costs.
 
 ## Notes
 
@@ -13,15 +13,15 @@
 
 ## Package Parameters
 
-The <PackageName> package uses <PackageName> installer from <Vendor> using the <FileType> file format.
+The <PackageName> package uses an installer from Python using the <FileType> file format.
 
 Using a <FileType> file provides a rich source of installation options :
 
 | Feature | Description | Default |
 |----|----|----|
-| InstallDir     | Installation directory. **NOTE**: If you have pre-existing <PackageName> installation, this parameter is ignored and existing python install location will be used | %ProgramFiles%\Python X.Y or %ProgramFiles(x86)%\Python X.Y |
+| InstallDir     | Installation directory. **NOTE**: If you have pre-existing <PackageName> installation, this parameter is ignored and existing python install location will be used | %ProgramFiles%\Python <Version> or %ProgramFiles(x86)%\Python <Version> |
 | Include_symbols  | Install debugging symbols (*.pdb) | 0 |
 | Include_debug	     | Install debug binaries | 0 |
 
-Example: `choco install <PackageName><Version> --params "/InstallDir:C:\your\install\path"`
+Example: `choco install <PackageName> --params "/InstallDir:C:\your\install\path"`
 

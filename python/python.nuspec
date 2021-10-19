@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-		<id>Python20</id>
-		<version>2.0.1</version>
-		<packageSourceUrl>https://github.com/johanjanssen/TemurinChocolateyPackages</packageSourceUrl>
-		<title>Python 20 - 2.0.1</title>
-		<authors>Adoptium</authors>
-		<owners>JohanJanssen</owners>
-		<licenseUrl>https://docs.python.org/2.0/license.html</licenseUrl>
-		<projectUrl>https://adoptium.net/</projectUrl>
-		<tags>openjdk java jvm</tags>
+		<id>Python36</id>
+		<version>3.6.8</version>
+		<packageSourceUrl>https://github.com/abg1979/chocolatey-python</packageSourceUrl>
+		<projectSourceUrl>https://www.python.org/downloads/source</projectSourceUrl>
+		<title>Python 36 - 3.6.8</title>
+		<authors>Python Software Foundation</authors>
+		<owners>abg1979</owners>
+		<licenseUrl>https://docs.python.org/3.6/license.html</licenseUrl>
+		<projectUrl>http://www.python.org/</projectUrl>
+		<iconUrl>https://www.python.org/static/img/python-logo.png</iconUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<tags>python programming development</tags>
 		<summary>Python is a programming language that lets you work more quickly and integrate your systems more effectively. You can learn to use Python and see almost immediate gains in productivity and lower maintenance costs.</summary>
-		<description><![CDATA[## <PackageName>
+		<description><![CDATA[## Python36
 
-<PackageName> <Version> is a programming language that lets you work more quickly and integrate your systems more effectively. You can learn to use <PackageName> <Version> and see almost immediate gains in productivity and lower maintenance costs.
+Python 3.6 is a programming language that lets you work more quickly and integrate your systems more effectively. You can learn to use Python 3.6 and see almost immediate gains in productivity and lower maintenance costs.
 
 ## Notes
 
@@ -24,17 +27,17 @@
 
 ## Package Parameters
 
-The <PackageName> package uses <PackageName> installer from <Vendor> using the <FileType> file format.
+The Python36 package uses an installer from Python using the exe file format.
 
-Using a <FileType> file provides a rich source of installation options :
+Using a exe file provides a rich source of installation options :
 
 | Feature | Description | Default |
 |----|----|----|
-| InstallDir     | Installation directory. **NOTE**: If you have pre-existing <PackageName> installation, this parameter is ignored and existing python install location will be used | %ProgramFiles%\Python X.Y or %ProgramFiles(x86)%\Python X.Y |
+| InstallDir     | Installation directory. **NOTE**: If you have pre-existing Python36 installation, this parameter is ignored and existing python install location will be used | %ProgramFiles%\Python 3.6 or %ProgramFiles(x86)%\Python 3.6 |
 | Include_symbols  | Install debugging symbols (*.pdb) | 0 |
 | Include_debug	     | Install debug binaries | 0 |
 
-Example: `choco install <PackageName><Version> --params "/InstallDir:C:\your\install\path"`
+Example: `choco install Python36 --params "/InstallDir:C:\your\install\path"`
 
 ]]></description>
   </metadata>
