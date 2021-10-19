@@ -1,38 +1,27 @@
 # [<PackageName> ](https://chocolatey.org/packages/<PackageName> )
 
- ## Temurin
- 
- The <PackageName> package uses <JVM_Type> VM from <Vendor> using the <fileType> file format.
- 
- Using a <fileType> file provides a rich source of installation options :
- 
- ** The following Features must be listed after `/ADDLOCAL=` using a comma after each feature. **
- 
-| Feature | Description |
-|----|----|
-| FeatureMain	         &nbsp; | &nbsp; Core Temurin installation (DEFAULT) |
-| FeatureEnvironment     &nbsp; | &nbsp; Update the PATH environment variable (DEFAULT) |
-| FeatureJarFileRunWith  &nbsp; | &nbsp; Associate .jar files with Java applications (DEFAULT) |
-| FeatureJavaHome	     &nbsp; | &nbsp; Update the JAVA_HOME environment variable |
-| FeatureIcedTeaWeb      &nbsp; | &nbsp; Install IcedTea-Web |
-| FeatureJNLPFileRunWith &nbsp; | &nbsp; Associate .jnlp files with IcedTea-web (Temurin 8 only) |
-| FeatureOracleJavaSoft	 &nbsp; | &nbsp; Updates registry keys HKLM\SOFTWARE\JavaSoft\ (Temurin 8 only) |
+## <PackageName>
 
-** Note: FeatureOracleJavaSoft can be used to prevent Oracle Java launching from PATH when Temurin is uninstalled. Reinstall Oracle Java if you need to restore the Oracle registry keys. **
+<PackageName> <Version> is a programming language that lets you work more quickly and integrate your systems more effectively. You can learn to use <PackageName> <Version> and see almost immediate gains in productivity and lower maintenance costs.
 
-Optional parameters can be used that group some of the features together:
+## Notes
 
-| Parameter | Features |
-|----|----|
-| &nbsp; INSTALLLEVEL=1 &nbsp; | &nbsp; FeatureMain,FeatureEnvironment,FeatureJarFileRunWith &nbsp; |
-|----|----|
-| &nbsp; INSTALLLEVEL=2 &nbsp; | &nbsp; FeatureMain,FeatureEnvironment,FeatureJarFileRunWith, FeatureJavaHome,FeatureIcedTeaWeb &nbsp; |
-|----|----|
-| &nbsp; INSTALLLEVEL=3 &nbsp; | &nbsp; FeatureMain,FeatureEnvironment,FeatureJarFileRunWith, FeatureJavaHome,FeatureIcedTeaWeb,FeatureJNLPFileRunWith &nbsp; |
+- Python package manager `pip` is installed by default, but you can also invoke it using command `py -m pip` which will use `pip3` and adequate version of python if you also have python2 installed and/or pip2 on the `PATH`. For more details see [Python on Windows FAQ](https://docs.python.org/3/faq/windows.html).
+- For complete list of silent install options see the [Installing Without UI](https://docs.python.org/3/using/windows.html#installing-without-ui) page.
+- Some packages require working C++ SDK to build C-based Python modules. One way to do so is to install [visualstudio2019-workload-vctools](https://chocolatey.org/packages/visualstudio2019-workload-vctools). See [GitHub issue #1518](https://github.com/chocolatey-community/chocolatey-coreteampackages/issues/1518) for more details.
 
-The following example silently installs Temurin, updates the PATH, associates .jar files with Java applications and defines JAVA_HOME:
-Example: `choco install <PackageName> --params="/ADDLOCAL=FeatureMain,FeatureEnvironment,FeatureJarFileRunWith,FeatureJavaHome /INSTALLDIR=C:\Program Files\Temurin\ /quiet"`
-** Note: You must use INSTALLDIR with FeatureMain. INSTALLDIR Default is `%Programfiles%\Temurin` **
 
-This will install both the 32 bit and 64 bit versions of the desired package by using the parameter `/both`
-Example: `choco install <PackageName> --params="/both"`
+## Package Parameters
+
+The <PackageName> package uses <PackageName> installer from <Vendor> using the <FileType> file format.
+
+Using a <FileType> file provides a rich source of installation options :
+
+| Feature | Description | Default |
+|----|----|----|
+| InstallDir     | Installation directory. **NOTE**: If you have pre-existing <PackageName> installation, this parameter is ignored and existing python install location will be used | %ProgramFiles%\Python X.Y or %ProgramFiles(x86)%\Python X.Y |
+| Include_symbols  | Install debugging symbols (*.pdb) | 0 |
+| Include_debug	     | Install debug binaries | 0 |
+
+Example: `choco install <PackageName><Version> --params "/InstallDir:C:\your\install\path"`
+

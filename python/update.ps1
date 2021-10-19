@@ -12,10 +12,9 @@ function global:au_BeforeUpdate {
 	else {
 		Copy-Item "$PSScriptRoot\install32.ps1" "$PSScriptRoot\tools\chocolateyinstall.ps1" -Force
 	}
-	$jvm = @{$true = "Eclipse_OpenJ9"; $false = "OpenJDK_HotSpot" }[ ( $Latest.PackageName -match "openj9" )]
-	Set-ReadMeFile -keys "fileType,Vendor,JVM_Type,PackageName" -new_info "$($Latest.fileType),Temurin,$jvm,$($Latest.PackageName)"
+	Set-ReadMeFile -keys "FileType,Vendor,Version,PackageVersion,PackageName" -new_info "$($Latest.fileType),Python,$($Latest.VersionTwoPart),$($Latest.PackageVersion),$($Latest.PackageName)"
 	# Adding summary to the Latest Hashtable
-	$Latest.summary	= "Adoptium provides prebuilt OpenJDK build binaries. This one uses $jvm."
+	$Latest.summary	= "Python is a programming language that lets you work more quickly and integrate your systems more effectively. You can learn to use Python and see almost immediate gains in productivity and lower maintenance costs."
 }
 
 function global:au_SearchReplace {
@@ -111,7 +110,9 @@ function GetStreams() {
 			$streams[$versionTwoPart]["LicenseUrl"] = "https://docs.python.org/$versionTwoPart/license.html"
 			$streams[$versionTwoPart]["fileType"] = $fileType
 			$streams[$versionTwoPart]["SemVer"] = $version
-        } 
+			$streams[$versionTwoPart]["VersionTwoPart"] = $versionTwoPart
+			$streams[$versionTwoPart]["PackageVersion"] = $packageVersion
+        }
         if ($url64) {
             $streams[$versionTwoPart]["URL64"] = $url64
             $streams[$versionTwoPart]["Version"] = $version
@@ -120,6 +121,8 @@ function GetStreams() {
 			$streams[$versionTwoPart]["LicenseUrl"] = "https://docs.python.org/$versionTwoPart/license.html"
 			$streams[$versionTwoPart]["fileType"] = $fileType
 			$streams[$versionTwoPart]["SemVer"] = $version
+			$streams[$versionTwoPart]["VersionTwoPart"] = $versionTwoPart
+			$streams[$versionTwoPart]["PackageVersion"] = $packageVersion
         }
     }
 
@@ -128,7 +131,6 @@ function GetStreams() {
 		Write-Verbose "$($stream.Value | Out-String)"
 	}
 
-    Write-Verbose "$($streams.Count) streams collected"
     return $streams
 }
 
