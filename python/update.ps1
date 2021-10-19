@@ -64,6 +64,7 @@ function GetStreams() {
         $version = $_.href.Trim() -split '/' | Select-Object -Last 1 -Skip 1
         $fileName = $_.href.Trim() -split '/' | Select-Object -Last 1
         $versionTwoPart = $version -replace '([\d]+\.[\d]+).*', "`$1"
+		$versionOnePart = $version -replace '([\d]+).*', "`$1"
         if ($fileName -match "([p|P]ython)\-(?<fileVersion>\d+\.\d+(\.\d+)?)(?<fileQualifier>.*?)(?<fileInstallType>[\-|amd64|webinstall|embed]*)\.(?<fileType>msi|exe)") {
             $fileVersion = $Matches.fileVersion
             $fileQualifier = $Matches.fileQualifier
@@ -95,6 +96,14 @@ function GetStreams() {
 		$packageVersion = $versionTwoPart -replace '\.', ''
         if (-not $streams[$versionTwoPart]) { 
             $streams.Insert(0, $versionTwoPart, @{})
+			$streams[$versionTwoPart]["Version"] = $version
+			$streams[$versionTwoPart]["PackageName"] = "Python$packageVersion"
+			$streams[$versionTwoPart]["Title"] = "Python $packageVersion - $version"
+			$streams[$versionTwoPart]["LicenseUrl"] = "https://docs.python.org/$versionTwoPart/license.html"
+			$streams[$versionTwoPart]["fileType"] = $fileType
+			$streams[$versionTwoPart]["SemVer"] = $version
+			$streams[$versionTwoPart]["VersionTwoPart"] = $versionTwoPart
+			$streams[$versionTwoPart]["PackageVersion"] = $packageVersion
         } else {
 			$existingVersion = [version]$streams[$versionTwoPart]["Version"]
 			$currentVersion = [version]$version
@@ -102,28 +111,35 @@ function GetStreams() {
 				return
 			}
 		}
-        if ($url32) {
-            $streams[$versionTwoPart]["URL32"] = $url32
-            $streams[$versionTwoPart]["Version"] = $version
-			$streams[$versionTwoPart]["PackageName"] = "Python$packageVersion"
-			$streams[$versionTwoPart]["Title"] = "Python $packageVersion - $version"
-			$streams[$versionTwoPart]["LicenseUrl"] = "https://docs.python.org/$versionTwoPart/license.html"
-			$streams[$versionTwoPart]["fileType"] = $fileType
-			$streams[$versionTwoPart]["SemVer"] = $version
-			$streams[$versionTwoPart]["VersionTwoPart"] = $versionTwoPart
-			$streams[$versionTwoPart]["PackageVersion"] = $packageVersion
-        }
-        if ($url64) {
-            $streams[$versionTwoPart]["URL64"] = $url64
-            $streams[$versionTwoPart]["Version"] = $version
-			$streams[$versionTwoPart]["PackageName"] = "Python$packageVersion"
-			$streams[$versionTwoPart]["Title"] = "Python $packageVersion - $version"
-			$streams[$versionTwoPart]["LicenseUrl"] = "https://docs.python.org/$versionTwoPart/license.html"
-			$streams[$versionTwoPart]["fileType"] = $fileType
-			$streams[$versionTwoPart]["SemVer"] = $version
-			$streams[$versionTwoPart]["VersionTwoPart"] = $versionTwoPart
-			$streams[$versionTwoPart]["PackageVersion"] = $packageVersion
-        }
+		if ($url32) {
+			$streams[$versionTwoPart]["URL32"] = $url32
+		}
+		if ($url64) {
+			$streams[$versionTwoPart]["URL64"] = $url64
+		}
+		if (-not $streams[$versionOnePart]) {
+			$streams.Insert(0, $versionOnePart, @{})
+			$streams[$versionOnePart]["Version"] = $version
+			$streams[$versionOnePart]["PackageName"] = "Python$versionOnePart"
+			$streams[$versionOnePart]["Title"] = "Python $versionOnePart - $version"
+			$streams[$versionOnePart]["LicenseUrl"] = "https://docs.python.org/$versionOnePart/license.html"
+			$streams[$versionOnePart]["fileType"] = $fileType
+			$streams[$versionOnePart]["SemVer"] = $version
+			$streams[$versionOnePart]["VersionTwoPart"] = $versionOnePart
+			$streams[$versionOnePart]["PackageVersion"] = $versionOnePart
+		} else {
+			$existingVersion = [version]$streams[$versionOnePart]["Version"]
+			$currentVersion = [version]$version
+			if ($existingVersion -gt $currentVersion) {
+				return
+			}
+		}
+		if ($url32) {
+			$streams[$versionOnePart]["URL32"] = $url32
+		}
+		if ($url64) {
+			$streams[$versionOnePart]["URL64"] = $url64
+		}
     }
 
 	foreach ($stream in $streams.GetEnumerator()) {
