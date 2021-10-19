@@ -1,0 +1,6 @@
+*.nupkg
+Temurin.json
+tools/chocolateyinstall.ps1
+*.iml
+python.json
+.idea
