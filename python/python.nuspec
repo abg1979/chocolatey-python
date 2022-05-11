@@ -29,16 +29,25 @@ Python 3.6 is a programming language that lets you work more quickly and integra
 
 The Python36 package uses an installer from Python using the exe file format.
 
-Using a exe file provides a rich source of installation options :
+Installation Options:
 
-| Feature | Description | Default |
-|----|----|----|
-| InstallDir     | Installation directory. **NOTE**: If you have pre-existing Python36 installation, this parameter is ignored and existing python install location will be used | %ProgramFiles%\Python 3.6 or %ProgramFiles(x86)%\Python 3.6 |
-| Include_symbols  | Install debugging symbols (*.pdb) | 0 |
-| Include_debug	     | Install debug binaries | 0 |
+The following are custom installation options for the Python36 package.
 
-Example: `choco install Python36 --params "/InstallDir:C:\your\install\path"`
+| Option | Description |
+| ------ | ----------- |
+| InstallPrefix | The installation prefix. |
 
+You can use any installation option available at [python install options](https://docs.python.org/3/using/windows.html#installing-without-ui) page except for the following:
+
+| Option | Why |
+|----|----|
+| TargetDir | You can't install to a specific directory. The directory is selected based on version of Python. Use the InstallPrefix option to specify the parent dir.  |
+| InstallAllUsers | The package is installed for all users. |
+| AssociateFiles | The package is not associated with files. |
+
+Example: `choco install Python36 --params "/InstallPrefix:C:\your\install\path"`
+
+The package will be installed to the folder `C:\your\install\path\Python36`.
 ]]></description>
   </metadata>
   <files>

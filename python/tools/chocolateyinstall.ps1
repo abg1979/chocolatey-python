@@ -3,7 +3,19 @@ if(!$PSScriptRoot){ $PSScriptRoot = Split-Path $MyInvocation.MyCommand.Path -Par
 . "$PSScriptRoot\helper.ps1"
 
 # Get Package Parameters
-$parameters = (Get-PackageParameters); $pp = ( Test-PackageParamaters $parameters ).ToString() -replace('""|="True"','') -replace(";", ' ') -replace("==", '=')
+$parameters = (Get-PackageParameters);
+$pp = ( Test-PackageParamaters $parameters ).ToString() -replace('""|="True"','') -replace(";", ' ') -replace("==", '=')
+if ([string]::IsNullOrEmpty($pp.InstallPrefix))
+{
+  $pp.add("TargetDir", $env:ProgramFiles64Folder + '\' +'Python36')
+}
+else
+{
+  $pp.add("TargetDir", $pp.InstallPrefix + '\' +'Python36')
+  $pp.remove("InstallPrefix")
+}
+
+
 
 $packageArgs = @{
   PackageName     = 'Python36'
